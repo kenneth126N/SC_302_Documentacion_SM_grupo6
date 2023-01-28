@@ -1,2 +1,2 @@
 alert("Hola mundo");
-commit changes
+console.log("cambios en el archivo");
